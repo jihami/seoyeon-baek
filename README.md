@@ -15,5 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Seoyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyeon-baek&show_icons=true&theme=graywhite)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=seoyeon-baek&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoyeon-baek&layout=compact&hide=csharp)](https://github.com/anuraghazra/github-readme-stats)  !
+
+[![SolvedAC tier](http://mazassumnida.wtf/api/generate_badge?boj=koder0205)](https://solved.ac/seoyeon-baek)  
+<!-- [백준](https://www.acmicpc.net/user/koder0205) | [코드업](https://codeup.kr/userinfo.php?user=koder0205) |  [솔브드AC](https://solved.ac/profile/koder0205) -->
 
   
