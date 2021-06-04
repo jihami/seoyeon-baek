@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1>나는 지함이가 좋다</h1>
+
 ![Seoyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyeon-baek&show_icons=true&theme=graywhite)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoyeon-baek&layout=compact&hide=csharp)](https://github.com/anuraghazra/github-readme-stats&theme=graywhite)
